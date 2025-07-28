@@ -25,4 +25,4 @@ A basic task manager application written in Java. This console-based program all
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Simple-Java-Task-Manager.git
+   git clone https://github.com/kevinbs/Simple-Java-Task-Manager.git
